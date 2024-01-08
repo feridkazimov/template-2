@@ -1,0 +1,59 @@
+@media only screen and (max-width:375px) {
+    .second {
+        display: none;
+    }
+
+    .second1 {
+        display: none;
+    }
+
+    .top_header {
+        display: none;
+    }
+
+    .third_title {
+        display: none;
+    }
+
+    .second1 {
+        display: flex;
+    }
+
+    #second_title {
+        display: flex;
+        justify-content: space-between;
+        padding: 0px;
+    }
+
+    .bx {
+        font-size: 40px;
+    }
+
+    .box {
+        align-items: center;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-image: url("/images/table-with-lunch-things-lunchbox-cup-tableware-greenery-top-view\ 1.png");
+    }
+
+    .first_right {
+        display: none;
+    }
+
+    .first_left h1 {
+        padding: 20px 0px;
+        margin: auto;
+        font-size: 30px;
+    }
+
+    .first_left1 p {
+        font-size: 14px;
+        margin-left: 0;
+
+    }
+    .Learn_More{
+        margin: 0;
+        margin-top: 50px;
+
+    }
+}
