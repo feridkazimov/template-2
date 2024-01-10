@@ -1,4 +1,4 @@
-@media only screen and (max-width:375px) {
+@media only screen and (max-width:450px) {
     .second {
         display: none;
     }
@@ -51,9 +51,150 @@
         margin-left: 0;
 
     }
-    .Learn_More{
+
+    .Learn_More {
         margin: 0;
         margin-top: 50px;
 
+    }
+
+
+    .Category {
+        display: none;
+    }
+
+    .fifth_title {
+        display: contents;
+    }
+
+    .first_picture {
+        width: 344px;
+        height: 344px;
+        padding: 20px;
+        margin: auto;
+    }
+
+    .first_picture a {
+        display: inline-block;
+        margin: 0;
+        margin-top: 250px;
+        margin-left: 20px;
+
+    }
+
+    .second_picture {
+        display: none;
+    }
+
+    .third_picture {
+        width: 344px;
+        height: 344px;
+        padding: 20px;
+        margin: auto;
+    }
+
+    .third_picture a {
+        display: inline-block;
+        margin: 0;
+        margin-top: 250px;
+        margin-left: 20px;
+    }
+
+    .fourth_picture {
+        display: none;
+    }
+
+    .fifth_picture {
+        width: 344px;
+        height: 344px;
+        padding: 20px;
+        margin: auto;
+    }
+
+    .fifth_picture a {
+        display: inline-block;
+        margin: 0;
+        margin-top: 250px;
+        margin-left: 20px;
+    }
+
+    .fourth_picture2 {
+        width: 344px;
+        height: 344px;
+        padding: 20px;
+        margin: auto;
+    }
+
+    .fourth_picture2 a {
+        display: inline-block;
+        margin: 0;
+        margin-top: 250px;
+        margin-left: 20px;
+    }
+
+    .second_picture2 {
+        width: 344px;
+        height: 344px;
+        padding: 20px;
+        margin: auto;
+    }
+
+    .second_picture2 a {
+        display: inline-block;
+        margin: 0;
+        margin-top: 250px;
+        margin-left: 20px;
+    }
+
+    .background {
+        background-color: #FFEFE5;
+        width: 450px;
+        height: 80%;
+        display: flex;
+        margin: auto;
+    }
+
+    .main_header {
+        color: #333;
+        font-size: 32px;
+    }
+
+    .good_for {
+        color: #666;
+        font-size: 14px;
+    }
+
+    .cleaning_products {
+        display: none;
+    }
+
+    .cleaning_staff {
+        display: none;
+    }
+
+    .cleaning_products_media {
+        display: flex;
+        justify-content: center;
+    }
+
+    .cleaning_media1 img {
+        width: 164px;
+        height: 164px;
+        margin: 20px;
+        border-radius: 10px;
+        
+    }
+
+    .cleaning_media2 img {
+        width: 164px;
+        height: 164px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+    .cleaning_staff_media{
+        display: flex;
+    }
+    .soap_media{
+        display: flex;
     }
 }

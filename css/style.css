@@ -151,6 +151,320 @@ li i {
     text-align: center;
     font-size: 20px;
 }
+
 .second1 {
+    display: none;
+}
+
+/* first_right END */
+.fifth_title {
+    display: flex;
+    align-items: center;
+    width: 1440px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+.Category {
+    color: #658C4A;
+    width: 200px;
+    font-size: 40px;
+    padding: 20px;
+    margin-right: 50px
+}
+
+.Category p {
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+.first_picture {
+    display: flex;
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+    padding: 0px 0px;
+}
+
+.first_pictur1 {
+    border-radius: 10px;
+
+}
+
+.first_picture a {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    margin-top: 140px;
+    margin-left: 20px;
+    background-color: #333;
+    border-radius: 40px;
+    padding: 8px 15px;
+}
+
+.second_picture {
+    display: flex;
+    padding: 20px;
+}
+
+.second_picture1 {
+    border-radius: 10px;
+}
+
+.second_picture a {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    margin-top: 140px;
+    margin-left: 20px;
+    background-color: #333;
+    border-radius: 40px;
+    padding: 8px 15px;
+}
+
+/* media */
+.second_picture2 {
+    display: flex;
+    padding: 20px;
+}
+
+.second_picture2 a {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    margin-top: 140px;
+    margin-left: 20px;
+    background-color: #333;
+    border-radius: 40px;
+    padding: 8px 15px;
+}
+
+/* media */
+
+.third_picture {
+    display: flex;
+    padding: 20px;
+}
+
+.third_picture1 {
+    border-radius: 10px;
+}
+
+.third_picture a {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    margin-top: 140px;
+    margin-left: 20px;
+    background-color: #333;
+    border-radius: 40px;
+    padding: 8px 15px;
+}
+
+.fourth_picture {
+    display: flex;
+    padding: 20px;
+}
+
+.fourth_picture1 {
+    border-radius: 10px;
+}
+
+.fourth_picture a {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    margin-top: 140px;
+    margin-left: 20px;
+    background-color: #333;
+    border-radius: 40px;
+    padding: 8px 15px;
+}
+
+/* media */
+.fourth_picture2 {
+    display: flex;
+    padding: 20px;
+}
+
+.fourth_picture2 a {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    margin-top: 140px;
+    margin-left: 20px;
+    background-color: #333;
+    border-radius: 40px;
+    padding: 8px 15px;
+}
+
+/* media */
+
+.fifth_picture {
+    display: flex;
+    padding: 20px;
+}
+
+.fifth_picture1 {
+    border-radius: 10px;
+}
+
+.fifth_picture a {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    margin-top: 140px;
+    margin-left: 20px;
+    background-color: #333;
+    border-radius: 40px;
+    padding: 8px 15px;
+}
+
+.fourth_picture {
+    display: none;
+}
+
+.second_picture {
+    display: none;
+}
+
+.background {
+    margin-top: 80px;
+    display: flex;
+    background-color: #658C4A;
+    width: 100%;
+    height: 700px;
+    padding: 80px 60px;
+    flex-direction: column;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.main_header {
+    color: #fff;
+    font-size: 48px;
+    font-family: 'Libre Baskerville', serif;
+    ;
+    text-align: center;
+}
+
+.good_for {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.cleaning_products {
+    display: inline-block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.cleaning_products img {
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.cleaning_staff {
+    display: flex;
+}
+
+/* SOAP start */
+.soap {
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    margin-left: 23px;
+}
+
+.soap1 {
+    display: flex;
+    font-size: 20px;
+}
+
+.soap2 {
+    display: flex;
+    margin-top: 10px;
+}
+
+.soap3 {
+    display: flex;
+    margin-top: 10px;
+}
+
+/* SOAP end */
+
+/* slippers start */
+.slippers {
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    margin-left: 110px;
+}
+.slippers2{
+    display: flex;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.slippers3{
+    display: flex;
+    margin-top: 10px;
+}
+/* slippers end */
+
+
+/* basket Start */
+.basket {
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    margin-left: 68px;
+}
+.basket2{
+    display: flex;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.basket3{
+    display: flex;
+    margin-top: 5px;
+}
+
+/* basket END */
+
+/* powder START */
+.powder {
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    margin-left: 60px;
+}
+.powder2{
+    display: flex;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.powder3{
+    display: flex;
+    margin-top: 5px;
+}
+/* powder END */
+
+.cleaning_products_media{
+    display: none;
+}
+.soap_media{
     display: none;
 }
