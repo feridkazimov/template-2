@@ -148,8 +148,8 @@
 
     .background {
         background-color: #FFEFE5;
-        width: 450px;
-        height: 80%;
+        width: 410px;
+        height: 720px;
         display: flex;
         margin: auto;
     }
@@ -182,7 +182,7 @@
         height: 164px;
         margin: 20px;
         border-radius: 10px;
-        
+
     }
 
     .cleaning_media2 img {
@@ -190,11 +190,247 @@
         height: 164px;
         margin: 20px;
         border-radius: 10px;
+        flex-shrink: 0;
     }
-    .cleaning_staff_media{
+
+    .cleaning_staff_media {
         display: flex;
     }
-    .soap_media{
+
+    /* soap_media Start */
+    .soap_media {
         display: flex;
+        display: block;
     }
+
+    .soap2_media {
+        font-size: 7px;
+        margin-left: 21px;
+    }
+
+    .soap3_media {
+        font-size: 7px;
+        color: #658C4A;
+        margin-left: 21px;
+        margin-top: 5px;
+    }
+
+    .soap4_media {
+        font-size: 7px;
+        color: #999999;
+        margin-left: 21px;
+        margin-top: 3px;
+    }
+
+    /* soap_media END */
+
+
+    /* basket_media Start */
+    .basket_media {
+        display: flex;
+        display: block;
+    }
+
+    .basket2_media {
+        font-size: 7px;
+        margin-left: 21px;
+    }
+
+    .basket3_media {
+        font-size: 7px;
+        color: #658C4A;
+        margin-left: 21px;
+        margin-top: 5px;
+    }
+
+    .basket4_media {
+        font-size: 7px;
+        color: #999999;
+        margin-left: 21px;
+        margin-top: 3px;
+    }
+
+    /* basket_media END */
+
+
+    /* slippers_media Start */
+    .slippers2_media {
+        font-size: 7px;
+        margin-left: 21px;
+    }
+
+    .slippers3_media {
+        font-size: 7px;
+        color: #658C4A;
+        margin-left: 21px;
+        margin-top: 5px;
+    }
+
+    .slippers4_media {
+        font-size: 7px;
+        color: #999999;
+        margin-left: 21px;
+        margin-top: 3px;
+
+    }
+
+    /* slippers_media END */
+
+
+    /* powder_media Start */
+    .powder_media {
+        margin-top: 10px;
+    }
+
+    .powder2_media {
+        font-size: 7px;
+        margin-left: 21px;
+    }
+
+    .powder3_media {
+        font-size: 7px;
+        color: #658C4A;
+        margin-left: 21px;
+        margin-top: 5px;
+
+    }
+
+    .powder4_media {
+        font-size: 7px;
+        color: #999999;
+        margin-left: 21px;
+        margin-top: 3px;
+    }
+
+    /* powder_media END */
+    .third_principle_letf {
+        display: none;
+    }
+
+    .third_principle_right {
+        display: none;
+    }
+
+    .third_principle1 {
+        margin-right: 155px;
+
+    }
+
+    .third_principle1 p {
+        font-size: 24px;
+        display: contents;
+
+    }
+
+    .product {
+        margin-left: 17px;
+    }
+
+    .product p {
+        display: contents;
+        font-size: 12px;
+    }
+
+    .furniture {
+        margin-left: 370px;
+    }
+
+    .furniture1 img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .furniture2 img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .furniture3 img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .furniture4 img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .fourth_principle {
+        width: 550px;
+        height: 360px;
+    }
+
+    .Environmentally p {
+        font-size: 20px;
+        font-family: Libre Baskerville;
+    }
+.See_More {
+    margin-left: 185px;
+    display: flex;
+    margin-left: 140px;
+}
+.third_principle {
+    height: 1%;
+}
+.Environmentally p{
+    margin-right: 110px;
+}
+.xett{
+    display: none;
+}
+.xett1_media{
+    display: flex;
+    margin-left: 70px;
+}
+/* 4 -cu seyfe bitish */
+
+
+/* 5 i ci seyfe basliq */
+
+.fifth_principle{
+    /* height: px; */
+}
+.Us{
+    color: #333;
+    font-size: 20px;
+    margin-right: 68%;
+}
+.customer_ervice{
+    display: none;
+}
+.customer_ervice_media{
+    display: flex;
+    margin-right: 68%;
+}
+.card p{
+    font-size: 14px;
+    width: max-content;
+}
+
+.smile p{
+    font-size: 14px;
+    width: max-content;
+    
+}
+.leaf p{
+    font-size: 14px;
+}
+.leaf p:nth-child(2){
+    width: max-content;
+}
+.leaf p:nth-child(3){
+    width: max-content;
+}
+.support p{
+    font-size: 14px;
+}
+.support p:nth-child(2){
+    width: max-content;
+}
+.support p:nth-child(3){
+    width: max-content;
+}
+
+
+/* 5 i ci seyfe bitis */
 }

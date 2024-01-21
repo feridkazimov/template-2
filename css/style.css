@@ -413,17 +413,20 @@ li i {
 .slippers {
     color: #fff;
     font-family: 'Inter', sans-serif;
-    margin-left: 110px;
+    margin-left: 50px;
 }
-.slippers2{
+
+.slippers2 {
     display: flex;
     font-size: 20px;
     margin-top: 10px;
 }
-.slippers3{
+
+.slippers3 {
     display: flex;
     margin-top: 10px;
 }
+
 /* slippers end */
 
 
@@ -433,12 +436,14 @@ li i {
     font-family: 'Inter', sans-serif;
     margin-left: 68px;
 }
-.basket2{
+
+.basket2 {
     display: flex;
     font-size: 20px;
     margin-top: 10px;
 }
-.basket3{
+
+.basket3 {
     display: flex;
     margin-top: 5px;
 }
@@ -451,20 +456,591 @@ li i {
     font-family: 'Inter', sans-serif;
     margin-left: 60px;
 }
-.powder2{
+
+.powder2 {
     display: flex;
     font-size: 20px;
     margin-top: 10px;
 }
-.powder3{
+
+.powder3 {
     display: flex;
     margin-top: 5px;
 }
+
 /* powder END */
 
-.cleaning_products_media{
+.cleaning_products_media {
     display: none;
 }
-.soap_media{
+
+.soap_media {
     display: none;
 }
+
+/* 3 -cu seyfe baslis */
+.third_principle {
+    width: 100%;
+    height: 700px;
+    margin-top: 50px;
+}
+
+.third_principle p {
+    font-size: 40px;
+    font-family: 'Libre Baskerville', serif;
+    color: #333;
+    display: flex;
+    margin-right: 70%;
+
+}
+
+.third_principle1 {
+    display: flex;
+    margin-top: 80px;
+    justify-content: center;
+}
+
+.third_principle_letf {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #999999;
+    border-radius: 100%;
+    padding: 8px;
+    margin-right: 16px;
+}
+
+.third_principle_right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E7CEC0;
+    border-radius: 100%;
+    padding: 8px;
+}
+
+.product p {
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: #666;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.furniture {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.furniture1 img {
+    padding: 25px;
+
+}
+
+.furniture2 img {
+    padding: 25px
+}
+
+.furniture3 img {
+    padding: 25px;
+}
+
+.furniture4 img {
+    padding: 25px;
+}
+
+.Household_Items {
+    display: flex;
+    flex-direction: column;
+}
+
+/* furniture_names_table Start */
+.furniture_names_table {
+    display: flex;
+}
+
+.furniture_names_table p {
+    font-size: 20px;
+    display: contents;
+}
+
+.table_price {
+    display: flex;
+}
+
+.table_price p {
+    font-size: 16px;
+    color: #658C4A;
+    margin-top: 10px;
+    font-family: 'Inter', sans-serif;
+}
+
+/* furniture_names_table END */
+
+
+/* furniture_names_sofa START */
+.furniture_names_chair {
+    display: flex;
+}
+
+.furniture_names_chair p {
+    font-size: 20px;
+    display: contents;
+}
+
+.sofa_chair {
+    display: flex;
+}
+
+.sofa_chair p {
+    font-size: 16px;
+    color: #658C4A;
+    margin-top: 10px;
+    font-family: 'Inter', sans-serif;
+}
+
+/* furniture_names_sofa END */
+
+
+
+/* furniture_names_sofa START */
+
+.furniture_names_sofa {
+    display: flex;
+}
+
+.furniture_names_sofa p {
+    font-size: 20px;
+    display: contents;
+
+}
+
+.table_sofa {
+    display: flex;
+}
+
+.table_sofa p {
+    font-size: 16px;
+    color: #658C4A;
+    margin-top: 10px;
+    font-family: 'Inter', sans-serif;
+}
+
+/* furniture_names_sofa END */
+
+
+/* furniture_names_deckchair START */
+.furniture_names_deckchair {
+    display: flex;
+}
+
+.furniture_names_deckchair p {
+    font-size: 20px;
+    display: contents;
+
+}
+
+.table_deckchair {
+    display: flex;
+}
+
+.table_deckchair p {
+    font-size: 16px;
+    color: #658C4A;
+    margin-top: 10px;
+    font-family: 'Inter', sans-serif;
+}
+
+/* furniture_names_deckchair END */
+
+/* See_More START */
+.See_More {
+    display: flex;
+    color: #fff;
+    border-radius: 40px;
+    background: #658C4A;
+    width: 160px;
+    margin-top: 20px;
+    margin-left: 50%;
+    margin: auto;
+    margin-top: inherit;
+}
+
+.See_More a {
+    padding: 12px 24px;
+    margin: auto;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* See_More END */
+
+/* 3 -cu seyfe bitis */
+
+
+
+
+/* 4 -cu seyfe basliq */
+
+.fourth_principle {
+    width: 100%;
+    height: 500px;
+    background-color: #658C4AE5;
+}
+
+.Environmentally {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.Environmentally p {
+    font-family: 'Libre Baskerville', serif;
+    color: #fff;
+    text-align: center;
+    font-size: 32px;
+    padding: 8%;
+}
+
+.vector {
+    text-align: center;
+}
+.xett{
+    display: flex;
+    margin-left: 35%
+}
+.xett1_media{
+    display: none;
+}
+
+
+/* 4 -cu seyfe bitis */
+
+
+/*  5 i ci seyfe basliq  */
+.fifth_principle {
+    display: flex;
+    width: 1440px;
+    height: 500px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.Us {
+    font-size: 48px;
+    font-family: Libre Baskerville;
+    color: #658C4A;
+    font-weight: 300;
+}
+
+.customer_ervice {
+    display: flex;
+
+}
+.customer_ervice_media{
+    display: none;
+}
+
+.card {
+    margin: 80px;
+}
+
+.card p:last-child {
+    color: #666;
+    font-family: Inter;
+}
+
+.smile {
+    margin: 80px;
+}
+
+.smile p:last-child {
+    color: #666;
+    font-family: Inter;
+}
+
+.leaf {
+    margin: 80px;
+}
+
+.leaf p:last-child {
+    color: #666;
+    font-family: Inter;
+}
+
+.support {
+    margin: 80px;
+}
+
+.support p:last-child {
+    color: #666;
+    font-family: Inter;
+}
+
+/*  5 i ci seyfe bitis */
+
+
+
+/* 6 ci seyfe basliq */
+#sixth_principle {
+    display: flex;
+}
+
+.Exist {
+    display: flex;
+    width: 20%;
+    height: 300px;
+    background-color: #E7CEC0;
+}
+
+.Exist p {
+    font-size: 40px;
+    font-family: Libre Baskerville;
+    color: #658C4A;
+    padding: 80px 0px 80px 120px;
+}
+
+.logo {
+    display: flex;
+    background: #658C4A;
+    width: 80%;
+    align-items: center;
+}
+
+.logo1 {
+    margin: auto;
+    padding: 0 0 0 100px;
+}
+
+.logo1 img {
+    margin: 10px;
+    border-radius: 16px;
+}
+
+.logo2 {
+    margin: auto;
+    margin-right: 120px;
+}
+
+.logo2 img {
+    margin: 10px;
+    border-radius: 16px;
+}
+
+
+
+/* 6 ci seyfe basliq */
+
+
+
+/* 7 ci seyfe basliq */
+
+.seventh_principle {
+    background-repeat: no-repeat;
+    background-image: url(../images/seventh_principle/image\ 1004.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 810px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 87vh;
+
+}
+
+.newsletter {
+    width: 500px;
+    background-color: #fff;
+    border-radius: 30px;
+    margin-right: 60%;
+    margin-top: 22%;
+}
+
+.newsletter1 {
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    line-height: 28px;
+    font-weight: 600;
+    color: #333;
+    padding: 20px 10px;
+}
+
+.newsletter_description {
+    padding: 0px 10px;
+    font-family: 'Inter', sans-serif;
+    color: #666;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+    padding: 4px 4px 4px 24px;
+}
+
+form a {
+    /* margin-top: 10px; */
+    color: #fff;
+    font-family: 'Inter';
+    font-size: 20px;
+    padding: 8px 14px;
+    border-radius: 40px;
+    background-color: #658C4A
+}
+
+form input {
+    padding: 13px;
+    outline: none;
+    border: none;
+}
+
+/* 7 ci seyfe bitis */
+
+
+
+
+/* 8 ci seyfe basliq */
+
+.page_eight {
+    width: 100%;
+    height: 500px;
+}
+
+.imgEco img {
+
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.EcoFinish {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.Eco_Shop h3 {
+    color: #658C4A;
+    padding: 10px 10px 5px 4px;
+    font-family: 'Inter';
+
+
+}
+
+.Eco_Shop h5 {
+    color: #333333;
+    padding: 5px;
+    font-family: 'Inter';
+}
+
+.Product_Categories h3 {
+    color: #658C4A;
+    padding: 10px 10px 5px 4px;
+    font-family: 'Inter';
+}
+
+.Product_Categories h5 {
+    color: #333333;
+    padding: 5px;
+    font-family: 'Inter';
+}
+
+.SupportFinish h3 {
+    color: #658C4A;
+    padding: 10px 10px 5px 4px;
+    font-family: 'Inter';
+}
+
+.SupportFinish h5 {
+    color: #333333;
+    padding: 5px;
+    font-family: 'Inter';
+}
+
+.Payment {
+    width: 112px;
+    height: 196px;
+    margin-right: 145px
+}
+
+.Payment h3 {
+    color: #658C4A;
+    padding: 10px 10px 5px 4px;
+    font-family: 'Inter';
+}
+
+.imageFirstColumn {
+    display: flex;
+    padding: 12px;
+    gap: 12px;
+}
+
+.imageSecondColumn {
+    display: flex;
+    padding: 12px;
+    gap: 12px;
+
+}
+
+.imageThirdColum {
+    display: flex;
+    padding: 12px;
+    gap: 12px;
+
+}
+
+/* 8 ci seyfe bitis */
+
+
+/* END */
+
+.end {
+    width: 100%;
+    height: 1px;
+    background-color: #333;
+}
+
+.EndFinsh {
+    height: 70px;
+}
+.EcoShopIndonesia{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.EcoShopIndonesia p {
+    font-family: 'Inter';
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.SosialMedia{
+    margin-right: 50px;
+    margin-top: 20px;
+    display: flex;
+}
+.SosialMedia1{
+    padding: 10px;
+}
+.SosialMedia2{
+    padding: 10px;
+}
+.SosialMedia3{
+    padding: 10px;
+}
+.SosialMedia4{
+    padding: 10px;
+}
+
+
+
+/* END */
